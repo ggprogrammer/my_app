@@ -8,20 +8,3 @@
   grid-template-columns: 2fr 10fr;
   /* grid-gap: 10px; */
 }
-.header {
-  width: 100%;
-  grid-area: head;
-  background-color: black;
-}
-.nav {
-  grid-area: nav;
-  background-color: rgb(97, 97, 97);
-}
-.logo {
-  height: 60px;
-  margin-left: 12.5%;
-}
-.profile {
-  grid-area: cont;
-  background-color: #1f1f1f;
-}

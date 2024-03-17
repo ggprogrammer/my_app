@@ -1,0 +1,10 @@
+.header {
+    width: 100%;
+    grid-area: head;
+    background-color: black;
+}
+.logo {
+    height: 60px;
+    margin-left: 12.5%;
+  }
+  
