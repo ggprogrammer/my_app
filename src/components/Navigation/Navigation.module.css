@@ -1,0 +1,13 @@
+.nav {
+  grid-area: nav;
+  background-color: rgb(97, 97, 97);
+}
+
+.item a{
+  color: white;
+  text-decoration: none;
+}
+.item a:active,
+.item a:focus {
+  color:chartreuse;
+}
